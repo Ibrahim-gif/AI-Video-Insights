@@ -31,9 +31,8 @@ To run the script, ensure you have the necessary dependencies installed and conf
 
 ```bash
 pip install -r requirements.txt
-
-
-## Enhancements
+```
+### Enhancements
 
 ### Enhance Video Clip Output Based on Transcript Analysis
 
